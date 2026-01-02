@@ -32,7 +32,6 @@ The system evaluates enhancement quality using standard quantitative metrics:
 * `/results`: Comparison images and test results.
 
 ## 📸 Results
-*(Note: Please upload a "Before vs After" screenshot named `demo_result.jpg` to your results folder to make this section populate properly)*
 ![Before vs After](:results/demo_result.jpg)
 
 ## 👤 Author
