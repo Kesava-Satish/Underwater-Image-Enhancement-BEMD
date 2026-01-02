@@ -32,7 +32,7 @@ The system evaluates enhancement quality using standard quantitative metrics:
 * `/results`: Comparison images and test results.
 
 ## 📸 Results
-![Before vs After](:results/demo_result.jpg)
+![Before vs After](/:results/demo_result.jpg)
 
 ## 👤 Author
 **Kesava Satish Boppana**
