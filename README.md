@@ -28,8 +28,6 @@ The system evaluates enhancement quality using standard quantitative metrics:
 ## 📂 Repository Structure
 * `/src`: Contains all MATLAB source codes.
     * `proposed_main.m`: The entry point for the application.
-    * `bemd.m`: Core implementation of the decomposition algorithm.
-    * `Calc_MSE_PSNR.m`: Utility for calculating error metrics.
 * `/docs`: Project thesis and presentation slides.
 * `/results`: Comparison images and test results.
 
